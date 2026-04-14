@@ -10,25 +10,11 @@
 ############################
 
 # Name of website
-title: Eleanna Vasquez Cerda (Ph.D Candidate)
+#title: Eleanna Vasquez Cerda (Ph.D Candidate)
 
 # Your name to show in the footer
 author: Eleanna Vasquez Cerda
 
-
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
-
-My name is Eleanna Cerda:
-
-- About me
-
-### My story
-
-Story
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -36,6 +22,7 @@ Story
 
 navbar-links:
   #About Me: ""
+  Resume:
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
