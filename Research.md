@@ -9,7 +9,7 @@ Test
 
 # Understanding the evolutionary processes underlying trichome dimorphism in Arabidopsis thaliana
 
-Test
+![alt text](/assets/img/IMG_3264.HEIC "Title")
 
 # The ecological role of trichome dimorphism
 
