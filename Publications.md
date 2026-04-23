@@ -1,7 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Plant Population Genetics | Bioinformatics | Supercomputing
+title: Publications
 ---
 
-I am currently a Ph.D. candidate in the Plant Biology program at Penn. State University (Lasky lab). My research integrates complex molecular, phenotypic and ecological data to understand how genetic variation is maintained in sorghum landraces and natural Arabidopsis thaliana populations. With extensive experience using R, Python, and bash my technical skills range from predictive modeling and machine learning to high performance/parallel computing. I am passionate about the diverse applications of data science and supercomputing, particularly in the context of agriculture, environmental advocacy as well as science communication. Beyond my work as a researcher I enjoy traveling, photography, watercolor painting and pottery. 
+# PUBLICATIONS
+Vasquez Cerda, E.E, Bellis, E.S., Das, A., Slayton, E.R., Morris, G.P., & Lasky, J.R. (2026). Population genomic structure of sorghum landraces across landscape, environment and culture. Molecular ecology, e70287. https://doi.org/https://doi.org/10.1111/mec.70287 *Invited for submission 
+
+Lopez, L., Lang, P. L. M., Marciniak, S., Kistler, L., Latorre, S. M., Haile, A., Vasquez Cerda, E., Gamba, D., Xu, Y., Woods, P., Yifru, M., Kerby, J., McKay, J. K., Oakley, C. G., Ågren, J., Wondimu, T., Bulafu, C., Perry, G. H., Burbano, H. A., & Lasky, J. R. (2025). Museum Genomics Reveals Temporal Genetic Stasis and Global Genetic Diversity in Arabidopsis thaliana. Molecular ecology, e70081. https://doi.org/10.1111/mec.70081
+ 
