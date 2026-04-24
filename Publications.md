@@ -8,3 +8,4 @@ title: Publications
 
 Lopez, L., Lang, P. L. M., Marciniak, S., Kistler, L., Latorre, S. M., Haile, A., Vasquez Cerda, E., Gamba, D., Xu, Y., Woods, P., Yifru, M., Kerby, J., McKay, J. K., Oakley, C. G., Ågren, J., Wondimu, T., Bulafu, C., Perry, G. H., Burbano, H. A., & Lasky, J. R. (2025). Museum Genomics Reveals Temporal Genetic Stasis and Global Genetic Diversity in Arabidopsis thaliana. Molecular ecology, e70081. https://doi.org/10.1111/mec.70081
  
+![alt text](/assets/img/0870456_0870456-R1-066-31A.jpg)
