@@ -17,6 +17,6 @@ Genetic variation in natural plant populations is essential for adaptation to va
 
 ![alt text](/assets/img/IMG_3264.HEIC "Image of glabrous A. thaliana accession from Italy")
 
-    ### The ecological role of trichome dimorphism
+## The ecological role of trichome dimorphism
 
-    Test
+
