@@ -58,7 +58,7 @@ social-network-links:
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
   github: eev38
-  google-scholar: "https://scholar.google.com/citations?user=xlitJgsAAAAJ&hl=en&oi=ao" 
+ # google-scholar: "https://scholar.google.com/citations?user=xlitJgsAAAAJ&hl=en&oi=ao" 
   #twitter: daattali
   #patreon: DeanAttali
  # youtube: "@daattali"
