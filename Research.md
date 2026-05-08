@@ -19,6 +19,8 @@ Thus far, we have found evidence of allelic heterogeneity in *GL1*, where 3 newl
 
 ![alt text](/assets/img/x.jpg "Image of glabrous A. thaliana accession from Italy"){: width="50%"}
 
+![alt text](/assets/img/IMG_5494.jpg "Image of hairy A. thaliana accession from Italy"){: width="50%"}
+
 ## The ecological role of trichome dimorphism
 
 In this chapter we explore the ecological components contributing to trichome variation across space and time. We ask: 
