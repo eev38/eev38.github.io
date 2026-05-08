@@ -17,7 +17,7 @@ Genetic variation in natural plant populations is essential for adaptation to va
 
 Thus far, we have found evidence of allelic heterogeneity in *GL1*, where 3 newly characterized *GL1* LOF alleles and 2 nonsynonymous SNPs are associated with the glabrous phenotype. Among population genetic analyses revealed signatures of balancing selection in *GL1* such as increased nucleotide diversity and Tajima's D within *GL1* relative to the genome-wide average among other factors. Concurrently, we found evidence of spatially variable selection, where hairy accessions occupy areas with more variable precipitation while glabrous morphs persist in areas with more variable and intense temperatures, and increased risk of drought in Spring.
 
-![alt text](/assets/img/IMG_3264.HEIC "Image of glabrous A. thaliana accession from Italy"){: width="50%"}
+![alt text](/assets/img/x.jpg "Image of glabrous A. thaliana accession from Italy"){: width="50%"}
 
 ## The ecological role of trichome dimorphism
 
@@ -28,5 +28,5 @@ In this chapter we explore the ecological components contributing to trichome va
 
 With the increasing threat of global warming, trichome dimorphism may represent shifts in the frequency and spatial distribution of phenotypes in response to reduced rainfall events. Here we employed methods like random forest modeling and GAM, which accounts for spatial variation, to make climate projections. To increase our sampling scheme across space and time we utilized >200 herbarium specimens from across five Italian herbariums as well as inaturalist observations.  
 
-![alt text](/assets/img/IMG_5299.HEIC "Image of A. thaliana accession from Italian herbarium"){: height="50%"}
+![alt text](/assets/img/y.jpg "Image of A. thaliana accession from Italian herbarium"){: height="50%"}
 
