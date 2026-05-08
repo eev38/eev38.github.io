@@ -28,5 +28,5 @@ In this chapter we explore the ecological components contributing to trichome va
 
 With the increasing threat of global warming, trichome dimorphism may represent shifts in the frequency and spatial distribution of phenotypes in response to reduced rainfall events. Here we employed methods like random forest modeling and GAM, which accounts for spatial variation, to make climate projections. To increase our sampling scheme across space and time we utilized >200 herbarium specimens from across five Italian herbariums as well as inaturalist observations.  
 
-![alt text](/assets/img/y.jpg "Image of A. thaliana accession from Italian herbarium"){: height="50%"}
+![alt text](/assets/img/y.jpg "Image of A. thaliana accession from Italian herbarium")
 
